@@ -1,0 +1,17 @@
+define keyword arguments and learn why they are useful
+
+define mass assignment and learn why it is useful
+Practice using keyword arguments and mass assignment
+
+Keyword arguments are a special way of passing arguments into a method.
+They behave like hashes, pairing a key that functions as the parameter
+name, with its value. 
+e.g name: age: rate: height: call: hash: arg:
+
+
+Keywordds > they allow you to name the arguments that you pass in as keys in a hash.
+
+
+
+
+
